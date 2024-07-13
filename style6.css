@@ -1,0 +1,57 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #12161d;
+    background-size: cover;
+    color: #ffffff;
+    margin: 0;
+    padding: 0;
+    background-image:url('bckgd2.jpg');
+}
+
+header{
+    background-color:rgb(47, 4, 104);
+    padding:20px;
+    color:white;
+    text-align:centre;
+    font-size:1.5rem;
+    border-bottom:2px solid rgb(24, 2, 53);
+  }
+a{
+    font-size:1.5rem;
+    border-bottom:2px solid rgb(24, 2, 53);
+    text-align: left;
+    color:rgb(47, 4, 104);
+
+}
+h2{
+    margin: 0;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+h2 {
+    color: #080807;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    padding: 10px;
+    color: #f7f5f7;
+    font-size: larger;
+    font-weight: 700;
+    background-color: gray;
+    border-radius: 5px;
+    margin-bottom: 5px;
+    border-color: #85799c;
+}
+

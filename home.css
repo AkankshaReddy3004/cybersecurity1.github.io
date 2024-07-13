@@ -1,0 +1,93 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 1000;
+    font-size: larger;
+    background-color: royalblue;
+    padding-top: 0%;
+    color:rgb(2, 48, 34); ;
+    background-image: url('ved.jpg');
+    background-position: cover;
+}
+a{
+    color: rgb(2, 73, 52);;
+    font-size: medium;
+    max-width: max-content;
+    font-weight: 800;
+}
+
+ svg{
+    font-size: medium;
+    justify-items: flex-end;
+    color: rgb(2, 73, 52);;
+    max-width: max-content;
+    padding-top: 0%;
+    font-weight: 800;
+    word-spacing: normal;
+    margin: 0;
+    padding: 0;
+    margin-right: 20px;
+ }
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+header {
+    background-color: rgb(66, 4, 82);
+    padding: 20px 0;
+    color: rgb(2, 73, 52);;
+    background-image: url('ved.jpg');
+    background-position: center;
+}
+
+.logo {
+    margin: 0;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: rgb(2, 73, 52);
+    text-decoration: none;
+}
+
+.hero {
+    text-align: center;
+    padding: 100px 0;
+}
+
+footer {
+    background-color: rgb(52, 3, 92);
+    padding: 20px 0;
+    text-align: center;
+    color: rgb(2, 73, 52);;
+    background-image: url('ved.jpg');
+    background-position: center;
+}
+
+.contact-info, .support-team {
+    display: inline-block;
+    width: 50%;
+    text-align: left;
+    padding: 20px;
+}
+
+.contact-info ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.contact-info ul li {
+    margin-bottom: 10px;
+}

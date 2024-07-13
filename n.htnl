@@ -1,0 +1,4 @@
+ <section class="visualization">
+      <h2>Interactive Data Visualization</h2>
+      <div id="chartContainer"></div>
+    </section>

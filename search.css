@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-image: url('j2.jpg');
+    background-position:cover;
+}
+
+header {
+    background-color: rgb(8, 26, 80);
+    font-size: x-large;
+    color: white;
+    padding: 30px;
+    text-align: center;
+}
+
+main {
+    padding: 20px;
+}
+
+input[type="text"] {
+    width: 300px;
+    padding: 10px;
+    font-size: 20px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 20px;
+    cursor: pointer;
+    font-weight: 700;
+}
+
+#results {
+    margin-top: 30px;
+    font-size: xx-large;
+    font-weight: 600;
+}
